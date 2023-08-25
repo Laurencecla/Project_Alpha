@@ -15,7 +15,7 @@ Project_Alpha is a data engineering and visualization project that focuses on ex
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/Project_Alpha.git`
+1. Clone this repository: `https://github.com/Laurencecla/Project_Alpha.git`
 2. Navigate to the project directory: `cd Project_Alpha`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
